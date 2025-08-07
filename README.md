@@ -6,7 +6,7 @@ I enjoy sharing my notes and random junk in English and Russian via GitHub Gists
 RSS: <https://gist.github.com/ilyaigpetrov.atom>.  
 Not RSS: <https://gist.github.com/ilyaigpetrov>.
 
-Веду telegram-канал «Декрабизация» на русском без выраженной тематики: <https://t.me/decrabru>.
+Веду Telegram-канал «Декрабизация» на русском без выраженной тематики: <https://t.me/decrabru>.
 
 ## Discussions / Обсуждения
 

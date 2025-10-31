@@ -50,3 +50,12 @@ jobs:
           pin_name: 'github-actions-test' # Optional
       - name: Appending to markdown
         run: echo ${{ steps.pin-ipfs.outputs.cid }} >> $GITHUB_STEP_SUMMARY
+      - name: Pin IPNS via Filebase
+        run: >
+          curl --request PUT
+          -H "Content-Type: application/json"
+          -H "Authorization: Bearer ${{ secrets.FILEBASE_TOKEN }}"
+          --data '{
+              "cid": "${{ steps.pin-ipfs.outputs.cid }}",
+              "enabled": true
+            }' https://api.filebase.io/v1/names/ilyaigpetrov

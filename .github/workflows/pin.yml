@@ -58,4 +58,4 @@ jobs:
           --data '{
               "cid": "${{ steps.pin-ipfs.outputs.cid }}",
               "enabled": true
-            }' https://api.filebase.io/v1/names/ilyaigpetrov
+            }' https://api.filebase.io/v1/names/${{ vars.IPNS_LABEL }}

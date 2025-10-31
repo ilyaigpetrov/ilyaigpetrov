@@ -42,8 +42,8 @@ jobs:
           # Directory path to add to IPFS
           path_to_add: './' # Required
           # Access Token for API Endpoint
-          endpoint: ${{ secrets.ENDPOINT }} # Required
+          endpoint: ${{ secrets.PIN_SERVICE_ENDPOINT }} # Required
           # Access Token for API Endpoint
-          access_token: ${{ secrets.ACCESS_TOKEN }} # Required
+          access_token: ${{ secrets.PIN_SERVICE_ACCESS_TOKEN }} # Required
           # Name of pin
           pin_name: 'github-actions-test' # Optional

@@ -7,7 +7,7 @@ RSS: <https://gist.github.com/ilyaigpetrov.atom>.
 For reading RSS via email you may like / Для доставки RSS на почту: <https://blogtrottr.com>.  
 Not RSS: <https://git.io/ilyaigpetrov>.  
 
-Веду Telegram-канал «Декрабизация» на русском без выраженной тематики: <https://t.me/decrabru>.
+Веду Telegram-канал «Декрабизация» на русском без выраженной тематики: <https://t.me/decrabru/36>.
 
 ## Discussions / Обсуждения
 

@@ -5,6 +5,7 @@ I enjoy sharing my notes and random junk in English and Russian via GitHub Gists
 
 RSS: <https://gist.github.com/ilyaigpetrov.atom>.  
 For reading RSS via email you may like / Для доставки RSS на почту: <https://blogtrottr.com>.  
+For reading RSS via Telegram bot / Для доставки RSS в телеграм: <https://t.me/RSStT_Bot>.  
 Not RSS: <https://git.io/ilyaigpetrov>.  
 
 Веду Telegram-канал «Декрабизация» на русском без выраженной тематики: <https://t.me/decrabru/36>.

@@ -10,9 +10,13 @@ Not RSS: <https://git.io/ilyaigpetrov>.
 
 Веду Telegram-канал «Декрабизация» на русском без выраженной тематики: <https://t.me/decrabru/36>.
 
+## Other Socials / Другие соцсети
+
+https://mastodon.social/@ilyaigpetrov
+
 ## Discussions / Обсуждения
 
 For public discussions with me see [Discussions].  
-Для публичных обсуждений со мной см. [Discussions].
+Для публичных обсуждений со мной см.[Discussions].
 
 [Discussions]: https://github.com/ilyaigpetrov/ilyaigpetrov/discussions

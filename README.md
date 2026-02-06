@@ -8,11 +8,11 @@ For reading RSS via email you may like / Для доставки RSS на поч
 For reading RSS via Telegram bot / Для доставки RSS в телеграм: <https://t.me/RSStT_Bot>.  
 Not RSS: <https://git.io/ilyaigpetrov>.  
 
-Веду Telegram-канал «Декрабизация» на русском без выраженной тематики: <https://t.me/decrabru/36>.
+Веду Telegram-канал «Декрабизация» на русском без выраженной тематики: <https://t.me/decrabru/36> (RU).
 
 ## Other Socials / Другие соцсети
 
-https://mastodon.social/@ilyaigpetrov
+- https://mastodon.social/@ilyaigpetrov (EN)
 
 ## Discussions / Обсуждения
 

@@ -23,5 +23,5 @@ For public discussions with me see [Discussions].
 
 ## Contacts / Контакты
 
-I use `ilyaigpetrov` handle on most services (Gmail, Telegram, etc.).
-I also have jabber: `ilyaigpetrov@valdikss.org.ru`.
+I use `ilyaigpetrov` handle on most services (Gmail, Telegram, etc.).  
+I also have jabber/xmpp: `ilyaigpetrov@valdikss.org.ru`.
